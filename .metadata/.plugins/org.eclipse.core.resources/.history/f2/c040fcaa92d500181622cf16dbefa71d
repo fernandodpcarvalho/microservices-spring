@@ -1,0 +1,30 @@
+package com.oreilly.cloud;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.client.RestTemplate;
+
+@RestController
+public class microserviceController {
+	
+	@RequestMapping("/cars")
+	public String cars() {
+		System.out.println("Controller /cars");
+		RestTemplate template = new RestTemplate();
+		
+		
+		return String.join(", ", cars.cars());
+	}
+	
+	@RequestMapping("/dogs")
+	public String dogs() {
+		System.out.println("Controller /dogs");
+		return String.join(" ,", dogList);
+	}
+	
+	@RequestMapping("/cats")
+	public String cats() {
+		System.out.println("Controller /cats");
+		return String.join(" ,", catList);
+	}
+}

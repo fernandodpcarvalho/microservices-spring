@@ -1,0 +1,43 @@
+package com.oreilly.cloud;
+
+import java.net.URI;
+import java.net.URISyntaxException;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.repository.query.Param;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.client.RestTemplate;
+
+@RestController
+public class microserviceController {
+	
+//	@RequestMapping("/title")
+	@RequestMapping(value = "/title", method = RequestMethod.GET)
+	public String findByTitle(@Param("title") String title) throws URISyntaxException {
+		URI uri = new URI("http://localhost:8080/lists/title?title=" + title);
+		return new RestTemplate().getForObject(uri, String.class);
+	}	
+	
+	
+//	@RequestMapping("/cars")
+//	public String cars() {
+//		System.out.println("Controller /cars");
+//		URI uri = new URI("http://localhost:8080/lists/cars")
+//		template.
+//		
+//		return String.join(", ", cars.cars());
+//	}
+//	
+//	@RequestMapping("/dogs")
+//	public String dogs() {
+//		System.out.println("Controller /dogs");
+//		return String.join(" ,", dogList);
+//	}
+//	
+//	@RequestMapping("/cats")
+//	public String cats() {
+//		System.out.println("Controller /cats");
+//		return String.join(" ,", catList);
+//	}
+}
