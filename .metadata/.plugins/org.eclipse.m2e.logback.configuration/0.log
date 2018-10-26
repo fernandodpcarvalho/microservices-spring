@@ -4063,3 +4063,549 @@ org.eclipse.core.runtime.CoreException: Launch configuration SpringMicroservices
 2018-10-24 21:53:17,448 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-10-24 21:53:17,450 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-10-24 21:53:17,450 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-eureka-server\src\test\resources
+2018-10-24 22:44:28,618 [Worker-88: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-simple-service:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-simple-service\pom.xml.
+2018-10-24 22:44:29,329 [Worker-88: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-microservices-simple-service/src/main/java
+2018-10-24 22:44:29,329 [Worker-88: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-microservices-simple-service/src/main/resources
+2018-10-24 22:44:29,334 [Worker-88: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-microservices-simple-service/src/main/resources
+2018-10-24 22:44:29,352 [Worker-88: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-microservices-simple-service/src/test/java
+2018-10-24 22:44:30,818 [Worker-88: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-10-24 22:44:30,820 [Worker-88: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-10-24 22:44:31,129 [Worker-88: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-simple-service:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-simple-service\pom.xml.
+2018-10-24 22:44:31,727 [Worker-88: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-microservices-simple-service/src/main/java
+2018-10-24 22:44:31,727 [Worker-88: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-microservices-simple-service/src/main/resources
+2018-10-24 22:44:31,729 [Worker-88: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-microservices-simple-service/src/main/resources
+2018-10-24 22:44:31,734 [Worker-88: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-microservices-simple-service/src/test/java
+2018-10-24 22:44:31,901 [Worker-88: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-10-24 22:44:40,666 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:44:40,667 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:44:40,667 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:44:40,669 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:44:40,669 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-simple-service\src\test\resources
+2018-10-24 22:45:34,779 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:45:34,781 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:45:34,782 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:45:34,784 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:45:34,784 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-simple-service\src\test\resources
+2018-10-24 22:45:41,876 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:45:41,879 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:45:41,882 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:45:41,883 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:45:41,884 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-simple-service\src\test\resources
+2018-10-24 22:46:02,567 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:46:02,568 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:46:02,570 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:46:02,571 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:46:02,572 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-simple-service\src\test\resources
+2018-10-24 22:46:14,335 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:46:14,336 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:46:14,337 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:46:14,339 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:46:14,339 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-simple-service\src\test\resources
+2018-10-24 22:46:42,744 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:46:42,746 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:46:42,747 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:46:42,748 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:46:42,748 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-simple-service\src\test\resources
+2018-10-24 22:46:52,024 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:46:52,025 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:46:52,028 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:46:52,029 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:46:52,029 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-simple-service\src\test\resources
+2018-10-24 22:47:47,442 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:47:47,443 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:47:47,444 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:47:47,447 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:47:47,447 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-simple-service\src\test\resources
+2018-10-24 22:47:57,414 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:47:57,415 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:47:57,416 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:47:57,417 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:47:57,418 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-simple-service\src\test\resources
+2018-10-24 22:49:14,101 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:49:14,101 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:49:14,103 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:49:14,104 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:49:14,104 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-simple-service\src\test\resources
+2018-10-24 22:51:09,199 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-hystrix:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-hystrix\pom.xml.
+2018-10-24 22:51:12,224 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix/1.4.6.RELEASE/spring-cloud-starter-hystrix-1.4.6.RELEASE.pom
+2018-10-24 22:51:12,358 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix/1.4.6.RELEASE/spring-cloud-starter-hystrix-1.4.6.RELEASE.pom
+2018-10-24 22:51:12,552 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/1.4.6.RELEASE/spring-cloud-starter-netflix-hystrix-1.4.6.RELEASE.pom
+2018-10-24 22:51:12,688 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/1.4.6.RELEASE/spring-cloud-starter-netflix-hystrix-1.4.6.RELEASE.pom
+2018-10-24 22:51:12,961 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.12/hystrix-metrics-event-stream-1.5.12.pom
+2018-10-24 22:51:13,107 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.12/hystrix-metrics-event-stream-1.5.12.pom
+2018-10-24 22:51:13,248 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-serialization/1.5.12/hystrix-serialization-1.5.12.pom
+2018-10-24 22:51:13,391 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-serialization/1.5.12/hystrix-serialization-1.5.12.pom
+2018-10-24 22:51:13,533 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.8.11/jackson-module-afterburner-2.8.11.pom
+2018-10-24 22:51:13,670 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.8.11/jackson-module-afterburner-2.8.11.pom
+2018-10-24 22:51:13,824 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-base/2.8.11/jackson-modules-base-2.8.11.pom
+2018-10-24 22:51:13,962 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-base/2.8.11/jackson-modules-base-2.8.11.pom
+2018-10-24 22:51:14,116 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-javanica/1.5.12/hystrix-javanica-1.5.12.pom
+2018-10-24 22:51:14,257 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-javanica/1.5.12/hystrix-javanica-1.5.12.pom
+2018-10-24 22:51:14,522 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix/1.4.6.RELEASE/spring-cloud-starter-hystrix-1.4.6.RELEASE.jar
+2018-10-24 22:51:14,669 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix/1.4.6.RELEASE/spring-cloud-starter-hystrix-1.4.6.RELEASE.jar
+2018-10-24 22:51:14,806 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/1.4.6.RELEASE/spring-cloud-starter-netflix-hystrix-1.4.6.RELEASE.jar
+2018-10-24 22:51:14,945 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/1.4.6.RELEASE/spring-cloud-starter-netflix-hystrix-1.4.6.RELEASE.jar
+2018-10-24 22:51:15,079 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.12/hystrix-metrics-event-stream-1.5.12.jar
+2018-10-24 22:51:15,487 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.12/hystrix-metrics-event-stream-1.5.12.jar
+2018-10-24 22:51:15,626 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-serialization/1.5.12/hystrix-serialization-1.5.12.jar
+2018-10-24 22:51:15,772 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-serialization/1.5.12/hystrix-serialization-1.5.12.jar
+2018-10-24 22:51:15,981 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.8.11/jackson-module-afterburner-2.8.11.jar
+2018-10-24 22:51:16,393 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.8.11/jackson-module-afterburner-2.8.11.jar
+2018-10-24 22:51:16,540 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-javanica/1.5.12/hystrix-javanica-1.5.12.jar
+2018-10-24 22:51:16,830 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-javanica/1.5.12/hystrix-javanica-1.5.12.jar
+2018-10-24 22:51:17,493 [Worker-89: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-microservices-hystrix/src/main/java
+2018-10-24 22:51:17,493 [Worker-89: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-microservices-hystrix/src/main/resources
+2018-10-24 22:51:17,502 [Worker-89: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-microservices-hystrix/src/main/resources
+2018-10-24 22:51:17,513 [Worker-89: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-microservices-hystrix/src/test/java
+2018-10-24 22:51:18,537 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2018-10-24 22:51:18,538 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-10-24 22:51:18,804 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-hystrix:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-hystrix\pom.xml.
+2018-10-24 22:51:20,400 [Worker-89: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-microservices-hystrix/src/main/java
+2018-10-24 22:51:20,401 [Worker-89: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-microservices-hystrix/src/main/resources
+2018-10-24 22:51:20,403 [Worker-89: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-microservices-hystrix/src/main/resources
+2018-10-24 22:51:20,410 [Worker-89: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-microservices-hystrix/src/test/java
+2018-10-24 22:51:20,519 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix/1.4.6.RELEASE/spring-cloud-starter-hystrix-1.4.6.RELEASE-sources.jar
+2018-10-24 22:51:20,654 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix/1.4.6.RELEASE/spring-cloud-starter-hystrix-1.4.6.RELEASE-sources.jar
+2018-10-24 22:51:20,684 [Worker-70: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-hystrix:1.4.6.RELEASE
+2018-10-24 22:51:20,765 [Worker-89: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2018-10-24 22:51:21,203 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/1.4.6.RELEASE/spring-cloud-starter-netflix-hystrix-1.4.6.RELEASE-sources.jar
+2018-10-24 22:51:21,338 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/1.4.6.RELEASE/spring-cloud-starter-netflix-hystrix-1.4.6.RELEASE-sources.jar
+2018-10-24 22:51:21,366 [Worker-70: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-hystrix:1.4.6.RELEASE
+2018-10-24 22:51:21,500 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.12/hystrix-metrics-event-stream-1.5.12-sources.jar
+2018-10-24 22:51:21,769 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.12/hystrix-metrics-event-stream-1.5.12-sources.jar
+2018-10-24 22:51:21,794 [Worker-70: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-metrics-event-stream:1.5.12
+2018-10-24 22:51:21,930 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-serialization/1.5.12/hystrix-serialization-1.5.12-sources.jar
+2018-10-24 22:51:22,071 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-serialization/1.5.12/hystrix-serialization-1.5.12-sources.jar
+2018-10-24 22:51:22,121 [Worker-70: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-serialization:1.5.12
+2018-10-24 22:51:22,255 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.8.11/jackson-module-afterburner-2.8.11-sources.jar
+2018-10-24 22:51:22,520 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.8.11/jackson-module-afterburner-2.8.11-sources.jar
+2018-10-24 22:51:22,547 [Worker-70: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-afterburner:2.8.11
+2018-10-24 22:51:22,690 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-javanica/1.5.12/hystrix-javanica-1.5.12-sources.jar
+2018-10-24 22:51:22,959 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-javanica/1.5.12/hystrix-javanica-1.5.12-sources.jar
+2018-10-24 22:51:22,981 [Worker-70: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-javanica:1.5.12
+2018-10-24 22:51:23,033 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:51:23,034 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:51:23,034 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:51:23,036 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:51:23,036 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 22:51:23,511 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1-sources.jar
+2018-10-24 22:51:24,198 [Worker-70: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1-sources.jar
+2018-10-24 22:51:24,218 [Worker-70: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.1
+2018-10-24 22:51:24,662 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:51:24,662 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:51:24,662 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:51:24,663 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:51:24,663 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 22:51:25,577 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-hystrix:1.4.6.RELEASE
+2018-10-24 22:51:25,582 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-hystrix:1.4.6.RELEASE
+2018-10-24 22:51:25,586 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-metrics-event-stream:1.5.12
+2018-10-24 22:51:25,591 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-serialization:1.5.12
+2018-10-24 22:51:25,594 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-afterburner:2.8.11
+2018-10-24 22:51:25,600 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-javanica:1.5.12
+2018-10-24 22:51:25,604 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.1
+2018-10-24 22:51:25,608 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-hystrix:1.4.6.RELEASE
+2018-10-24 22:51:25,612 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-hystrix:1.4.6.RELEASE
+2018-10-24 22:51:25,616 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-metrics-event-stream:1.5.12
+2018-10-24 22:51:25,619 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-serialization:1.5.12
+2018-10-24 22:51:25,622 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-afterburner:2.8.11
+2018-10-24 22:51:25,624 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-javanica:1.5.12
+2018-10-24 22:51:25,627 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.1
+2018-10-24 22:51:25,629 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-hystrix:1.4.6.RELEASE
+2018-10-24 22:51:25,631 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-hystrix:1.4.6.RELEASE
+2018-10-24 22:51:25,634 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-metrics-event-stream:1.5.12
+2018-10-24 22:51:25,636 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-serialization:1.5.12
+2018-10-24 22:51:25,639 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-afterburner:2.8.11
+2018-10-24 22:51:25,641 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-javanica:1.5.12
+2018-10-24 22:51:25,644 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.1
+2018-10-24 22:51:25,837 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:51:25,837 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:51:25,837 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:51:25,839 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:51:25,839 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 22:52:30,058 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:52:30,061 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:52:30,064 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:52:30,066 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:52:30,066 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 22:53:39,152 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:53:39,154 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:53:39,156 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:53:39,162 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:53:39,163 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 22:54:39,669 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:54:39,670 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:54:39,672 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:54:39,675 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:54:39,675 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 22:54:45,527 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:54:45,528 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:54:45,530 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:54:45,531 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:54:45,531 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 22:55:02,043 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:55:02,044 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:55:02,045 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:55:02,046 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:55:02,046 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 22:55:07,112 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:55:07,114 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:55:07,116 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:55:07,117 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:55:07,117 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 22:55:47,984 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:55:47,986 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:55:47,988 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:55:47,989 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:55:47,989 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 22:56:19,735 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:56:19,737 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:56:19,739 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:56:19,741 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:56:19,742 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 22:57:08,773 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:57:08,774 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:57:08,775 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:57:08,776 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:57:08,776 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 22:57:23,437 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:57:23,439 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:57:23,442 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:57:23,443 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:57:23,443 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 22:57:58,561 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:57:58,562 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:57:58,563 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:57:58,564 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:57:58,564 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 22:58:03,876 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:58:03,876 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 22:58:03,877 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 22:58:03,879 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 22:58:03,879 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 23:12:33,980 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:12:33,982 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 23:12:33,984 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 23:12:33,985 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:12:33,985 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 23:13:47,912 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:13:47,913 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 23:13:47,915 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 23:13:47,916 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:13:47,916 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 23:14:09,776 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:14:09,777 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 23:14:09,779 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 23:14:09,780 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:14:09,780 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 23:14:25,148 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:14:25,149 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 23:14:25,152 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 23:14:25,154 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:14:25,154 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 23:14:31,017 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:14:31,018 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 23:14:31,020 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 23:14:31,022 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:14:31,022 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 23:14:45,016 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:14:45,019 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 23:14:45,021 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 23:14:45,023 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:14:45,023 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 23:15:17,962 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:15:17,964 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 23:15:17,967 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 23:15:17,970 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:15:17,970 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-24 23:15:37,327 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:15:37,328 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 23:15:37,330 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 23:15:37,331 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-24 23:15:37,331 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:13:27,694 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:13:27,695 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:13:27,696 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:13:27,698 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:13:27,698 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:13:50,256 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:13:50,258 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:13:50,259 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:13:50,260 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:13:50,260 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:14:59,900 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:14:59,901 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:14:59,902 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:14:59,903 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:14:59,903 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:16:40,477 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:16:40,477 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:16:40,479 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:16:40,480 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:16:40,480 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:18:27,025 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:18:27,027 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:18:27,028 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:18:27,030 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:18:27,030 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:18:37,835 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:18:37,837 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:18:37,838 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:18:37,840 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:18:37,840 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:19:10,988 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:19:10,991 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:19:10,994 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:19:10,996 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:19:10,996 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:21:35,995 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:21:35,996 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:21:35,997 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:21:35,999 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:21:35,999 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:22:40,001 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:22:40,003 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:22:40,005 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:22:40,008 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:22:40,008 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:23:00,148 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:23:00,149 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:23:00,150 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:23:00,153 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:23:00,153 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:52:43,569 [Worker-96: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-hystrix:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-hystrix\pom.xml.
+2018-10-26 05:52:48,045 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-starter-hystrix-dashboard-1.4.6.RELEASE.pom
+2018-10-26 05:52:48,236 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-starter-hystrix-dashboard-1.4.6.RELEASE.pom
+2018-10-26 05:52:48,429 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-1.4.6.RELEASE.pom
+2018-10-26 05:52:48,608 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-1.4.6.RELEASE.pom
+2018-10-26 05:52:48,805 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-netflix-hystrix-dashboard-1.4.6.RELEASE.pom
+2018-10-26 05:52:49,015 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-netflix-hystrix-dashboard-1.4.6.RELEASE.pom
+2018-10-26 05:52:49,194 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/2.1.1/jquery-2.1.1.pom
+2018-10-26 05:52:49,352 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/2.1.1/jquery-2.1.1.pom
+2018-10-26 05:52:49,509 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11.pom
+2018-10-26 05:52:49,665 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11.pom
+2018-10-26 05:52:49,945 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-starter-hystrix-dashboard-1.4.6.RELEASE.jar
+2018-10-26 05:52:50,177 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-starter-hystrix-dashboard-1.4.6.RELEASE.jar
+2018-10-26 05:52:50,357 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-1.4.6.RELEASE.jar
+2018-10-26 05:52:50,542 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-1.4.6.RELEASE.jar
+2018-10-26 05:52:50,728 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-netflix-hystrix-dashboard-1.4.6.RELEASE.jar
+2018-10-26 05:52:51,231 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-netflix-hystrix-dashboard-1.4.6.RELEASE.jar
+2018-10-26 05:52:51,390 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/2.1.1/jquery-2.1.1.jar
+2018-10-26 05:52:51,726 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/2.1.1/jquery-2.1.1.jar
+2018-10-26 05:52:51,887 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11.jar
+2018-10-26 05:52:52,064 [Worker-96: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11.jar
+2018-10-26 05:52:52,404 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:52:52,405 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:52:52,405 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:52:52,406 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:52:52,406 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:52:56,918 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-starter-hystrix-dashboard-1.4.6.RELEASE-sources.jar
+2018-10-26 05:52:57,105 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-starter-hystrix-dashboard-1.4.6.RELEASE-sources.jar
+2018-10-26 05:52:57,608 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:52:57,610 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:52:57,612 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:52:57,613 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:52:57,614 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:52:57,642 [Worker-92: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-hystrix-dashboard:1.4.6.RELEASE
+2018-10-26 05:52:57,822 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-1.4.6.RELEASE-sources.jar
+2018-10-26 05:52:58,067 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-starter-netflix-hystrix-dashboard-1.4.6.RELEASE-sources.jar
+2018-10-26 05:52:58,096 [Worker-92: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-hystrix-dashboard:1.4.6.RELEASE
+2018-10-26 05:52:58,282 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-netflix-hystrix-dashboard-1.4.6.RELEASE-sources.jar
+2018-10-26 05:52:58,936 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.4.6.RELEASE/spring-cloud-netflix-hystrix-dashboard-1.4.6.RELEASE-sources.jar
+2018-10-26 05:52:58,979 [Worker-92: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-hystrix-dashboard:1.4.6.RELEASE
+2018-10-26 05:52:59,133 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/2.1.1/jquery-2.1.1-sources.jar
+2018-10-26 05:52:59,298 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/2.1.1/jquery-2.1.1-sources.jar
+2018-10-26 05:52:59,326 [Worker-92: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:jquery:2.1.1
+2018-10-26 05:52:59,479 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11-sources.jar
+2018-10-26 05:52:59,644 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11-sources.jar
+2018-10-26 05:52:59,675 [Worker-92: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:d3js:3.4.11
+2018-10-26 05:53:00,176 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:53:00,176 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:53:00,176 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:53:00,177 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:53:00,178 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:53:14,648 [Worker-97: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-hystrix:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-hystrix\pom.xml.
+2018-10-26 05:53:15,036 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:53:15,036 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:53:15,037 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:53:15,038 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:53:15,038 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:53:22,466 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:53:22,467 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:53:22,468 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:53:22,469 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:53:22,469 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:54:18,809 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:54:18,811 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:54:18,812 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:54:18,813 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:54:18,814 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:54:34,786 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:54:34,787 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:54:34,788 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:54:34,789 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:54:34,789 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:55:39,056 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:55:39,057 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:55:39,059 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:55:39,062 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:55:39,062 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:55:53,481 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:55:53,482 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:55:53,483 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:55:53,484 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:55:53,484 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:56:36,492 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:56:36,493 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:56:36,495 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:56:36,497 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:56:36,498 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 05:57:26,407 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:57:26,409 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 05:57:26,410 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 05:57:26,411 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 05:57:26,412 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 06:01:16,498 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:01:16,499 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 06:01:16,501 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:01:16,502 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:01:16,502 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 06:03:29,560 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:03:29,563 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 06:03:29,567 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:03:29,569 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:03:29,570 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 06:04:10,499 [Worker-101: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-hystrix:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-hystrix\pom.xml.
+2018-10-26 06:04:10,970 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:10,970 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:04:10,970 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:04:10,972 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:10,972 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 06:04:17,109 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:17,110 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 06:04:17,112 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:04:17,113 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:17,113 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 06:04:37,981 [Worker-89: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-hystrix:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-hystrix\pom.xml.
+2018-10-26 06:04:41,215 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.7.RELEASE/spring-cloud-starter-hystrix-dashboard-1.2.7.RELEASE.pom
+2018-10-26 06:04:41,365 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.7.RELEASE/spring-cloud-starter-hystrix-dashboard-1.2.7.RELEASE.pom
+2018-10-26 06:04:41,507 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix/1.2.7.RELEASE/spring-cloud-netflix-1.2.7.RELEASE.pom
+2018-10-26 06:04:41,644 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix/1.2.7.RELEASE/spring-cloud-netflix-1.2.7.RELEASE.pom
+2018-10-26 06:04:41,781 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build/1.2.3.RELEASE/spring-cloud-build-1.2.3.RELEASE.pom
+2018-10-26 06:04:42,050 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build/1.2.3.RELEASE/spring-cloud-build-1.2.3.RELEASE.pom
+2018-10-26 06:04:42,191 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-dependencies/1.2.7.RELEASE/spring-cloud-netflix-dependencies-1.2.7.RELEASE.pom
+2018-10-26 06:04:42,329 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-dependencies/1.2.7.RELEASE/spring-cloud-netflix-dependencies-1.2.7.RELEASE.pom
+2018-10-26 06:04:42,467 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/1.2.3.RELEASE/spring-cloud-dependencies-parent-1.2.3.RELEASE.pom
+2018-10-26 06:04:42,608 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/1.2.3.RELEASE/spring-cloud-dependencies-parent-1.2.3.RELEASE.pom
+2018-10-26 06:04:42,762 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-dependencies/1.1.9.RELEASE/spring-cloud-commons-dependencies-1.1.9.RELEASE.pom
+2018-10-26 06:04:42,897 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-dependencies/1.1.9.RELEASE/spring-cloud-commons-dependencies-1.1.9.RELEASE.pom
+2018-10-26 06:04:43,043 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-dependencies/1.2.3.RELEASE/spring-cloud-config-dependencies-1.2.3.RELEASE.pom
+2018-10-26 06:04:43,181 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-dependencies/1.2.3.RELEASE/spring-cloud-config-dependencies-1.2.3.RELEASE.pom
+2018-10-26 06:04:43,325 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/1.2.2.RELEASE/spring-cloud-dependencies-parent-1.2.2.RELEASE.pom
+2018-10-26 06:04:43,464 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/1.2.2.RELEASE/spring-cloud-dependencies-parent-1.2.2.RELEASE.pom
+2018-10-26 06:04:43,605 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-stream-dependencies/Brooklyn.SR3/spring-cloud-stream-dependencies-Brooklyn.SR3.pom
+2018-10-26 06:04:43,739 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-stream-dependencies/Brooklyn.SR3/spring-cloud-stream-dependencies-Brooklyn.SR3.pom
+2018-10-26 06:04:43,886 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.4.6.RELEASE/spring-boot-dependencies-1.4.6.RELEASE.pom
+2018-10-26 06:04:44,158 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.4.6.RELEASE/spring-boot-dependencies-1.4.6.RELEASE.pom
+2018-10-26 06:04:44,295 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.8.RELEASE/spring-framework-bom-4.3.8.RELEASE.pom
+2018-10-26 06:04:44,431 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.8.RELEASE/spring-framework-bom-4.3.8.RELEASE.pom
+2018-10-26 06:04:44,569 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Hopper-SR10/spring-data-releasetrain-Hopper-SR10.pom
+2018-10-26 06:04:44,707 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Hopper-SR10/spring-data-releasetrain-Hopper-SR10.pom
+2018-10-26 06:04:44,842 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.8.10.RELEASE/spring-data-build-1.8.10.RELEASE.pom
+2018-10-26 06:04:44,980 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.8.10.RELEASE/spring-data-build-1.8.10.RELEASE.pom
+2018-10-26 06:04:45,118 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.3.9.RELEASE/spring-integration-bom-4.3.9.RELEASE.pom
+2018-10-26 06:04:45,253 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.3.9.RELEASE/spring-integration-bom-4.3.9.RELEASE.pom
+2018-10-26 06:04:45,390 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/4.1.4.RELEASE/spring-security-bom-4.1.4.RELEASE.pom
+2018-10-26 06:04:45,530 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/4.1.4.RELEASE/spring-security-bom-4.1.4.RELEASE.pom
+2018-10-26 06:04:45,707 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-archaius/1.4.6.RELEASE/spring-cloud-starter-archaius-1.4.6.RELEASE.pom
+2018-10-26 06:04:45,859 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-archaius/1.4.6.RELEASE/spring-cloud-starter-archaius-1.4.6.RELEASE.pom
+2018-10-26 06:04:46,109 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.7.RELEASE/spring-cloud-starter-hystrix-dashboard-1.2.7.RELEASE.jar
+2018-10-26 06:04:46,258 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.7.RELEASE/spring-cloud-starter-hystrix-dashboard-1.2.7.RELEASE.jar
+2018-10-26 06:04:46,405 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-archaius/1.4.6.RELEASE/spring-cloud-starter-archaius-1.4.6.RELEASE.jar
+2018-10-26 06:04:46,544 [Worker-89: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-archaius/1.4.6.RELEASE/spring-cloud-starter-archaius-1.4.6.RELEASE.jar
+2018-10-26 06:04:46,957 [Worker-89: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-config-client:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-config-client\pom.xml.
+2018-10-26 06:04:47,446 [Worker-89: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-config-server:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-config-server\pom.xml.
+2018-10-26 06:04:47,899 [Worker-89: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-config-eureka-server-2:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-eureka-server\pom.xml.
+2018-10-26 06:04:48,503 [Worker-89: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-catalog:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-test-controller\pom.xml.
+2018-10-26 06:04:49,513 [Worker-89: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-test-data\pom.xml.
+2018-10-26 06:04:49,818 [Worker-89: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-config-eureka-client-2:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-eureka-client-2\pom.xml.
+2018-10-26 06:04:50,090 [Worker-89: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-config-eureka-client-1:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-eureka-client-1\pom.xml.
+2018-10-26 06:04:50,196 [Worker-89: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-simple-service:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-simple-service\pom.xml.
+2018-10-26 06:04:51,663 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:51,663 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:04:51,663 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:04:51,665 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:51,665 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 06:04:55,610 [Worker-101: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.7.RELEASE/spring-cloud-starter-hystrix-dashboard-1.2.7.RELEASE-sources.jar
+2018-10-26 06:04:55,760 [Worker-101: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.7.RELEASE/spring-cloud-starter-hystrix-dashboard-1.2.7.RELEASE-sources.jar
+2018-10-26 06:04:55,789 [Worker-101: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-hystrix-dashboard:1.2.7.RELEASE
+2018-10-26 06:04:55,902 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:55,905 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:04:55,905 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:04:55,906 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:55,907 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-config-client\src\test\resources
+2018-10-26 06:04:55,935 [Worker-101: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-archaius/1.4.6.RELEASE/spring-cloud-starter-archaius-1.4.6.RELEASE-sources.jar
+2018-10-26 06:04:56,085 [Worker-101: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-archaius/1.4.6.RELEASE/spring-cloud-starter-archaius-1.4.6.RELEASE-sources.jar
+2018-10-26 06:04:56,116 [Worker-101: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-archaius:1.4.6.RELEASE
+2018-10-26 06:04:56,491 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:56,492 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 06:04:56,493 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 06:04:56,494 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:56,497 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-config-server\src\test\resources
+2018-10-26 06:04:57,898 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:57,903 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:04:57,904 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:04:57,905 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:57,906 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-eureka-client-1\src\test\resources
+2018-10-26 06:04:58,540 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:58,542 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:04:58,542 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:04:58,544 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:58,544 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-eureka-client-2\src\test\resources
+2018-10-26 06:04:59,071 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:59,073 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:04:59,074 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:04:59,076 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:04:59,076 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-eureka-server\src\test\resources
+2018-10-26 06:05:01,857 [Worker-92: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-hystrix:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-hystrix\pom.xml.
+2018-10-26 06:05:04,436 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:05:04,438 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 06:05:04,451 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:05:04,453 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:05:04,453 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 06:05:04,724 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:05:04,725 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 06:05:04,727 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:05:04,728 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:05:04,728 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-simple-service\src\test\resources
+2018-10-26 06:05:05,130 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:05:05,132 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:05:05,132 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:05:05,133 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:05:05,133 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-test-controller\src\test\resources
+2018-10-26 06:05:05,345 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:05:05,346 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 06:05:05,349 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:05:05,350 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:05:05,350 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-test-data\src\test\resources
+2018-10-26 06:05:19,339 [Worker-102: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-hystrix:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-hystrix\pom.xml.
+2018-10-26 06:05:19,811 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:05:19,812 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:05:19,812 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:05:19,813 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:05:19,813 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 06:05:24,917 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:05:24,917 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 06:05:24,919 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:05:24,921 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:05:24,921 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix\src\test\resources
+2018-10-26 06:11:14,593 [Worker-76: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.oreilly.cloud:spring-microservices-simple-service:0.0.1-SNAPSHOT @ C:\Users\ferna\sts-workspace\spring-microservices-hystrix-simple-service\pom.xml.
+2018-10-26 06:11:14,875 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:11:14,875 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 06:11:14,876 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:11:14,878 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:11:14,878 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix-simple-service\src\test\resources
+2018-10-26 06:11:19,944 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:11:19,945 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-26 06:11:19,947 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-26 06:11:19,948 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-26 06:11:19,948 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ferna\sts-workspace\spring-microservices-hystrix-simple-service\src\test\resources
