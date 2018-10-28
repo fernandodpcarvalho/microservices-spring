@@ -7,22 +7,23 @@ public class MyZuulFilter extends ZuulFilter {
 
 	@Override
 	public boolean shouldFilter() {
-		return false;
+		return true;
 	}
 
 	@Override
 	public Object run() throws ZuulException {
+		System.out.println("This request has passed through the custom Zuul Filter...");
 		return null;
 	}
 
 	@Override
 	public String filterType() {
-		return null;
+		return "pre";
 	}
 
 	@Override
 	public int filterOrder() {
-		return 0;
+		return 1;
 	}
 
 }
